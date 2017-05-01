@@ -1,6 +1,6 @@
 ## AVANCE 2
 
-# Querido diario:
+Querido diario:
 
 La semana pasada descargue de la red el genoma de Cucurbita pepo para utilizar como referencia para el llamado de SNPs.
 
