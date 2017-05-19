@@ -3,7 +3,7 @@ Querido diario
 
 Hasta el día de he realizado los siguientes avances:
 
-1. Corrí el programa bwa utilizando el genoma de C. pepo reportado por Blanca et al. para anotar mis secuencias con el siguiente script proporcionado por Josué Barrera:
+1. Corrí el programa bwa utilizando el genoma de C. pepo reportado por Blanca et al. para anotar mis secuencias con el siguiente script con la ayuda de Josué Barrera:
 ```
 #!/bin/sh
 #USAGE: nohup ./fastq2bam.sh genoma_referencia.fasta lista_secuencias > log.txt &
